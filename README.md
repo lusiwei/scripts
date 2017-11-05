@@ -2,7 +2,7 @@
 
 美化git log显示：
 ```
-git clone https://github.com/lusiwei/scripts/blob/master/gitlogPretty
+git clone https://raw.githubusercontent.com/lusiwei/scripts/master/gitlogPretty
 chmod +x gitlogPretty
 ./gitlogPretty xx     //xx代表你要自定义的别名
 ```
