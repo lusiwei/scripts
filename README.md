@@ -1,4 +1,5 @@
 # scripts
+:smile:
 
 美化git log显示：
 ```
